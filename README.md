@@ -1,12 +1,11 @@
 ## Olá, sou Jeremias João Mané
 
-🚩 São Paulo, Zona Oeste- Carapícuiba
+🚩 São Paulo, Brazil
 
-📚 Estudante de Ciencias da Computação 2/8
+📚 Ciencia da Computação 2/8
 
-📚 Traineee Backend Developer
+📚 Trainee Backend Developer at MAGNA SISTEMAS
 
-💡 Sempre disponível em aprender
  <div>
  
   <a href="https://github.com/jeremias-joao">
