@@ -2,9 +2,9 @@
 
 🚩 São Paulo, Brazil
 
-📚 Ciencia da Computação 2/8
+📚 Ciencia da Computação 3/8
 
-📚 Trainee Backend Developer at MAGNA SISTEMAS
+📚 Trainee Backend-Java Developer at MAGNA SISTEMAS
 
  <div>
  
