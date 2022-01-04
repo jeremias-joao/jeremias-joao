@@ -15,13 +15,23 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremias-joao&layout=compact&langs_count=7&theme=dracula"/>
    
    
-</div>
+
  
-<div style="display: inline_block"><br>
-   <img align="center" alt="Jeremias-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
-  <img align="center" alt="Jeremias-POSTGRESQL" height="30"width="40"src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Jeremias-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg"> 
-</div>
+  <div style="display: inline_block">
+  <h3 align="left">Linguagens e Ferramentas:</h3>
+  <br>
+   
+  ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git)
+  ![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
+  ![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=blue)
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-white?style=flat-square&logo=spring)
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<br>
   
  
   ## Alguns Skils Básicos
