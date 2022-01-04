@@ -24,6 +24,10 @@
 </div>
   
  
+  ## Alguns Skils Básicos
+
+<img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
+ 
    ## CONTATE-ME ATRÁVES:
 <div> 
   <a href="https://www.instagram.com/joao.jeremias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
