@@ -4,7 +4,7 @@
 
 📚 Ciencia da Computação 3/8
 
-📚 Trainee Backend-Java Developer at MAGNA SISTEMAS
+📚 Backend-Java Developer at MAGNA SISTEMAS
 
  <div>
  
