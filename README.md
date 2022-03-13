@@ -2,7 +2,7 @@
 
 🚩 São Paulo, Brazil
 
-📚 Ciencia da Computação 3/8
+📚 Estudante Ciencia da Computação
 
 📚 Backend-Java Developer at MAGNA SISTEMAS
 
