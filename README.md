@@ -35,13 +35,13 @@
   
  
   ## Alguns Skils Básicos
-
-<img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
  
    ## CONTATE-ME ATRÁVES:
 <div> 
-  <a href="https://www.instagram.com/joao.jeremias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:misonyjoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
   <a href="https://www.linkedin.com/in/jeremias-jo%C3%A3o-man%C3%A9-2785761a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
