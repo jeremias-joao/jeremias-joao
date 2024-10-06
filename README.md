@@ -4,7 +4,7 @@
 
 📚 Estudante Ciencia da Computação
 
-📚 Backend-Java Developer at MAGNA SISTEMAS
+📚 Backend-Java Developer at MERCADO LIVRE BRASIL
 
  <div>
  
