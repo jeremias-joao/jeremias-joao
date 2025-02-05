@@ -2,9 +2,9 @@
 
 🚩 São Paulo, Brazil
 
-📚 Estudante Ciencia da Computação
+📚 Bacharel em Ciencia da Computação
 
-📚 Backend-Java Developer at MERCADO LIVRE BRASIL
+📚 Backend Software Developer at MERCADO LIVRE BRASIL
 
  <div>
  
