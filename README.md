@@ -42,12 +42,12 @@ Minha trajetória conecta desenvolvimento de software, arquitetura e infraestrut
 | Formação | Instituição | Período |
 | :--- | :--- | :--- |
 | **Mestrado em Ciência da Computação** | UNESP — IBILCE | ago. 2026 – atual |
+| **Especialização em Infraestrutura de TI e Redes** | Faculdade Metropolitana | out. 2026 – atual |
+| **Especialização em Matemática Orientada à Computação Aplicada** | Faculdade Focus | ago. 2026 – atual |
+| **Especialização em Docência no Ensino Superior** | Universidade Anhanguera São Paulo | fev. 2026 – atual |
 | Especialização em Arquitetura de Software Distribuído | PUC Minas | mar. 2025 – nov. 2026 |
-| Especialização em Infraestrutura de TI e Redes | Faculdade Metropolitana | out. 2026 – atual |
-| Especialização em Matemática Orientada à Computação Aplicada | Faculdade Focus | ago. 2026 – atual |
-| Especialização em Docência no Ensino Superior | Universidade Anhanguera São Paulo | fev. 2026 – atual |
 | Especialização em Engenharia de Redes e Telecomunicações | Universidade Anhanguera São Paulo | jan. – dez. 2025 |
-| **Bacharelado em Ciência da Computação** | UNINOVE | fev. 2021 – dez. 2024 |
+| Bacharelado em Ciência da Computação | UNINOVE | fev. 2021 – dez. 2024 |
 
 <details>
 <summary><strong>Mais sobre minha formação</strong></summary>
